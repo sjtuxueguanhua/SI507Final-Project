@@ -89,9 +89,9 @@ The data structure is a graph in the organization of Year as top tree and each s
                             /        \
                            /          \
                           /            \
-						State 1  ...   State N
-  						 |               |
-  					 zero...ta_number  zero...ta_number             
+			State 1  ...   State N
+  			 |               |
+  		zero...ta_number  zero...ta_number             
 
 
 ```
