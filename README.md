@@ -37,7 +37,7 @@ Copy codecd SI507Final-Project
 1. Run the script:
 
 ```
-Copy codepython final_project.py
+Copy codepython main.py
 ```
 
 ## Usage
